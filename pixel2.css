@@ -1,0 +1,176 @@
+#table{
+  height: 22em;
+  width: 22em;
+}
+
+.row {
+  border: .15em solid black;
+  height: 12px;
+  width: 12px;
+
+}
+
+.cell {
+  border: .15em solid black;
+  height: 12px;
+  width: 12px;
+}
+
+#palette{
+padding-top: 30px;
+border-spacing: 2px;
+margin-left: 3.5em;
+}
+
+.pCell{
+  border: 3px solid black;
+  /* height: 20px;
+  width: 20px; */
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid black;
+  padding: 2px;
+}
+
+
+.pink {
+  background-color: rgb(216, 41, 184);
+}
+.pink1{
+  background-color: rgb(242, 140, 204);
+}
+
+.pink2 {
+  background-color: rgb(219, 43, 213)
+}
+
+.pink3 {
+  background-color: rgb(186, 80, 141);
+}
+
+.pink4 {
+  background-color: rgb(244, 4, 112);
+}
+
+.pink5 {
+  background-color: rgb(132, 47, 85);
+}
+
+.purple {
+  background-color: rgb(65, 21, 142);
+}
+
+.purple1 {
+  background-color: rgb(37, 7, 79);
+}
+.purple2 {
+  background-color: rgb(91, 58, 132);
+}
+.purple3 {
+  background-color: rgb(88, 25, 122);
+}
+.purple4 {
+  background-color: rgb(206, 182, 239);
+}
+.purple5 {
+  background-color: rgb(113, 39, 216);
+}
+
+.yellow {
+  background-color: rgb(249, 219, 47);
+}
+.yellow1 {
+  background-color: rgb(240, 249, 134);
+}
+.yellow2 {
+  background-color: rgb(201, 187, 66);
+}
+.yellow3 {
+  background-color: rgb(247, 178, 4);
+}
+.yellow4 {
+  background-color: rgb(183, 150, 3);
+}
+.yellow5 {
+  background-color: rgb(209, 157, 62);
+}
+
+.orange {
+  background-color: rgb(244, 148, 51);
+}
+.orange1 {
+  background-color: rgb(209, 84, 62);
+}
+.orange2 {
+  background-color: rgb(135, 43, 27);
+}
+.orange3 {
+  background-color: rgb(181, 72, 9);
+}
+.orange4 {
+  background-color: rgb(221, 137, 88);
+}
+.orange5 {
+  background-color: rgb(247, 109, 4);
+}
+
+.green {
+  background-color: rgb(36, 124, 40);
+}
+.green1 {
+  background-color: rgb(77, 239, 2);
+}
+.green2 {
+  background-color: rgb(65, 99, 49);
+}
+.green3 {
+  background-color: rgb(19, 58, 1);
+}
+.green4 {
+  background-color: rgb(91, 158, 108);
+}
+.green5 {
+  background-color: rgb(10, 38, 18);
+}
+
+.blue {
+  background-color: rgb(42, 60, 193);
+}
+.blue1 {
+  background-color: rgb(19, 219, 215);
+}
+.blue2 {
+  background-color: rgb(7, 75, 84);
+}
+.blue3 {
+  background-color: rgb(4, 10, 58);
+}
+.blue4 {
+  background-color: rgb(40, 58, 122);
+}
+.blue5 {
+  background-color: rgb(98, 153, 201);
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid black;
+  margin-left: 7em;
+}
+
+.paletteH {
+  text-decoration: underline dotted black;
+  margin-left: 8px;
+  font-family: fantasy;
+}
+
+.main{
+  text-decoration: underline dotted black;
+  margin-left: 2.75em;
+  font-family: fantasy;
+}
